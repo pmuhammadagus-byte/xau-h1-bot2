@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.25.0
+gradio_client==1.5.0
+schedule==1.2
+flask==3.0.3
